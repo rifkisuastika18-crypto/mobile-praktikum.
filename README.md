@@ -5,3 +5,7 @@ Aplikasi latihan untuk prsanan
 Nama panggilan / akun GitHub: rifkisuastika18@gmail.com
 ## Status
 Proyek awal perkuliahan.
+
+## cara menjalankan aplikasi
+flutter pub get
+flutter run
